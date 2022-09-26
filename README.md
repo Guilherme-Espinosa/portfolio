@@ -1,3 +1,5 @@
+![preview](./.github/preview.png "preview")
+
 ##### (pt-br) (en) (es).
 
 # Portfólio (pt-br)
